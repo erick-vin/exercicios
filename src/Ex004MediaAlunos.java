@@ -24,7 +24,7 @@ public class Ex004MediaAlunos {
 		
 		media = (nota1 + nota2) / 2;
 		
-		System.out.printf("O aluno deve media %.2f \n", media);
+		System.out.printf("O aluno teve media %.2f \n", media);
 		
 		if (media >= 7) {
 			System.out.println("Ele foi APROVADO!");
