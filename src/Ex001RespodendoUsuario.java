@@ -3,6 +3,10 @@ public class Ex001RespodendoUsuario {
 
 	public static void main(String[] args) {
 		
+		/* Criar um programa que peça o nome do usuario 
+		 * e depois responda o usuario o chamando 
+		 * pelo nome informado. */
+		
 		Scanner sc = new Scanner(System.in);
 		String nome;
 		

@@ -4,6 +4,8 @@ public class Ex002SomandoDoisNumeros {
 
 	public static void main(String[] args) {
 		
+		//Criar um programa que some dois números	
+		
 		Scanner sc = new Scanner(System.in);
 		
 		int numero1, numero2, resposta;

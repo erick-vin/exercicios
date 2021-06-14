@@ -4,6 +4,10 @@ public class Ex003DadosDeUmNumero {
 
 	public static void main(String[] args) {
 		
+		/* Criar um programa que peça um número
+		 * ao usuario e lhe dê algumas informações
+		 * sobre esse número. */
+		
 		Scanner sc = new Scanner(System.in);
 		
 		double numero;
