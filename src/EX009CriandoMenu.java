@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EX009CriandoMenu {
+public class Ex009CriandoMenu {
 
 	public static void main(String[] args) {
 		// Criar um Menu de opções
